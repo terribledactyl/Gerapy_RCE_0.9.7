@@ -1,4 +1,4 @@
-# Gerapy_RCE_0.9.7
+# Gerapy_RCE_0.9.7 - CVE-2021-43857
 Exploit credited to Jeremiasz Pluta, added some error handling.
 
 # Readme
