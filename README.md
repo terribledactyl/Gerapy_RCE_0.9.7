@@ -1,7 +1,9 @@
 # Gerapy_RCE_0.9.7
 Exploit credited to Jeremiasz Pluta, added some error handling.
 
-# Readme Copied from LongWayHomie's Github:
+# Readme
+Copied from LongWayHomie's Github
+
 Gerapy prior to version 0.9.8 is vulnerable to remote code execution. This issue is patched in version 0.9.8. CVE-2021-43857 is a vulnerability marked as Critical priority (CVSS 9.8) leading to remote code execution.
 This vulnerability works on all versions prior to 0.9.8.
 Tested only on 0.9.6. Needs correct credentials.
